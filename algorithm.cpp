@@ -4,3 +4,8 @@ void addValue()
 {
 
 }
+
+void Mul()
+{
+
+}
